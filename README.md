@@ -1,3 +1,3 @@
-step 1:Download the code 
+step 1:Download this files and dataset 
 step 2: select your dataset path
-step 3:Run
+step 3:Run the code 
